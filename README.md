@@ -22,6 +22,10 @@
 For more details please refer to our MSR 2018 paper: [Evaluating How Developers Use General-Purpose Web-Search
 for Code Retrieval](http://mmasud.me/papers/msr2018-evaluate-code-search.pdf)
 
+## Other links: 
+ - [Project](http://mmasud.me/publication/msr2018-evaluate-code-search/)
+ - [Slides](http://mmasud.me/papers/msr2018-evaluate-code-search-slides.pdf)
+ 
 ## Citation
 If you use this code or data, please consider citing this paper:
 
