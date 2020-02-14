@@ -20,12 +20,9 @@
  A length-normalized version of the code intent is given in `codeness_norm()`. It takes a sentence(query) as input and returns it's codescore normalized by sentence length.
 
 For more details please refer to our MSR 2018 paper: [Evaluating How Developers Use General-Purpose Web-Search
-for Code Retrieval](http://mmasud.me/papers/msr2018-evaluate-code-search.pdf)
+for Code Retrieval](https://arxiv.org/abs/1803.08612)
 
-## Other links: 
- - [Project](http://mmasud.me/publication/msr2018-evaluate-code-search/)
- - [Slides](http://mmasud.me/papers/msr2018-evaluate-code-search-slides.pdf)
- 
+
 ## Citation
 If you use this code or data, please consider citing this paper:
 
